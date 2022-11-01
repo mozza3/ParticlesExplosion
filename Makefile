@@ -1,0 +1,1 @@
+    g++ -Isrc/Include -Lsrc/lib -o main2 main.cpp -lmingw32 -lSDL2main -lSDL2
