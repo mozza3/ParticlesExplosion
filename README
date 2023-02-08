@@ -1,2 +1,1 @@
-In the Makefile I included the SDL2 header & library files, so in order for the project to work on your device you need to add the SDL2 header, library, and SDL2.dll
-files in your directory. 
+
